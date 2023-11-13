@@ -1,0 +1,7 @@
+.avatar {
+  width: 200px; 
+  height: 200px; 
+  border-radius: 50%;
+  display: block; /* Ensures that it's treated as a block element */
+  margin: 0 auto; 
+}
